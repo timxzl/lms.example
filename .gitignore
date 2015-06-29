@@ -1,0 +1,25 @@
+target/
+lib_managed/
+project/boot/
+local.properties
+\#*
+.\#*
+*~
+.target/
+project/user.sbt
+.classpath
+.project
+.history
+.settings/
+.idea/
+.idea_modules/
+*.iml
+
+# Tests
+~test-out/*.check
+
+# Vim swap files
+*.swp
+
+# Mac OS X junk
+.DS_Store
